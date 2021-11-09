@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hi Naomi! Sending you good vibes.
+
+Thank you Alissa! sending you good vibes as well :) 
